@@ -262,3 +262,5 @@ This project demonstrates the practical application of:
 ## About
 
 This project was created as part of the Tuwaiq Academy Software Development Bootcamp as a practical application task following lessons on Object-Oriented Programming and external libraries/packages. The objective was to integrate previously learned concepts (UI design, async programming, event handling) with new library integration skills to build a real-world desktop application that interacts with system hardware.
+
+The code was AI-generated as a learning tool. The primary objective was to study and understand the code structure, analyze how external libraries are integrated into C# projects, comprehend the implementation of OOP principles and async/await patterns, and gain the ability to modify and enhance the Bluetooth scanning functionality independently through hands-on practice.
